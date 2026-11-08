@@ -182,8 +182,4 @@ An AC sweep confirmed f_L ≈ 103 Hz, f_H ≈ 1.07 MHz, and mid-band gain = 226 
 
 The hardware achieved a **mid-band gain of 222 V/V (46.9 dB)** at 10 kHz, agreeing with the QSPICE simulation (226 V/V) to within **1.9%** and meeting the ≥200 V/V design target. The practical lower cut-off (f_L ≈ 118 Hz) fell close to but slightly above the 100 Hz target, with the deviation traced to electrolytic capacitor tolerance. The upper cut-off (f_H ≈ 410 kHz) substantially exceeds the 10 kHz requirement. The work demonstrates a reproducible design-to-validation cycle for a discrete multistage small-signal amplifier.
 
----
 
-## License
-
-This project is submitted as an academic mini-project at COEP Technological University, Pune. All design work, calculations, simulations, and hardware were carried out as original work. The report may be referenced with appropriate attribution.
