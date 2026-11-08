@@ -2,10 +2,6 @@
 
 A complete design-to-validation project for a two-stage RC coupled common-emitter BJT amplifier, covering analytical design, QSPICE simulation, perfboard hardware implementation, and experimental frequency-response characterization.
 
-**Course:** Mini Project — Third Year B.Tech (Electrical Engineering), Semester V  
-**Institution:** Department of Electrical Engineering, COEP Technological University, Pune  
-**Academic Year:** 2026–2027  
-**Guide:** Dr. V. S. Rajguru
 
 ---
 
